@@ -16,3 +16,11 @@ This subset of the DrupalPro (formerly Drupal Quickstart')
 scripts only included those Drush commands to setup
 databases, Apache virtual servers etc.
 
+USAGE
+-----
+The easiest way to use this, under Drush 7.x (Composer),
+is to copy the 'quickstart' directory to your
+~/.drush directory.  Then run 'drush cc drush' to
+clear your Drush command cache.
+
+
